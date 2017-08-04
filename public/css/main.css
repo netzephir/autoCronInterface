@@ -1,0 +1,14 @@
+.navbar-custom-centered
+{
+    border-radius: 0px 0px 100px 100px;
+}
+.btn.btn-success-o
+{
+    background-color: transparent;
+    border: 2px solid #18bc9c;
+    color: #18bc9c;
+}
+.btn.btn-block.btn-success-o
+{
+
+}
